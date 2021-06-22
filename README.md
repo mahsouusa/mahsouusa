@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @mahsouusa
-- 👀 I’m interested in learning more about the computing world.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on  a project that can help me professionally in my future career.
 
 
 <!---
